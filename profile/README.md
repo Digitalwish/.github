@@ -1,6 +1,6 @@
 <h1> Welcome to Digitalwish.pt </h1>
 
-<img align="left" alt="Digitalwish" width="400px" src="https://digitalwish.pt/wp-content/uploads/2022/06/digitalwish-logo.png"> </br>
+<img align="left" alt="Digitalwish" width="500px" src="https://digitalwish.pt/wp-content/uploads/2022/06/digitalwish-logo.png"> </br>
 
 <h2>How to contact Digitalwish:</h2>
 <h3><a href="https://digitalwish.pt/">Digitalwish.pt</a></h3>
