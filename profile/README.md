@@ -6,4 +6,5 @@
 <h3><a href="https://digitalwish.pt/">Digitalwish.pt</a></h3>
 <h3><a href="mailto:hi@digitalwish.pt">E-mail</a></h3> 
 <h3><a href="mailto:ricardo.rouco@digitalwish.pt">Admin e-mail</a></h3>
+<h3><a href="https://www.facebook.com/digitalwish.pt">Digitalwish Facebook</a></h3>
 <h3><a href="https://discord.gg/QSyZvcczPG">Digitalwish Discord Server</a></h3> </br>
