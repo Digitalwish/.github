@@ -6,11 +6,6 @@
          width="300" height="300"
 </a>
 </p>
-</br>
-</br>
-<h1>Digitalwish Presentation<h1>
-         </br>
-
-
-https://user-images.githubusercontent.com/3881594/190192873-2fe1b5eb-9faa-4eff-977f-c073d4e36ada.mp4
+<p>Digitalwish Presentation<p>
+<video src= "https://user-images.githubusercontent.com/3881594/190192873-2fe1b5eb-9faa-4eff-977f-c073d4e36ada.mp4></video>
 
